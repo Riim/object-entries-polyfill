@@ -1,0 +1,19 @@
+{
+  "name": "@riim/object-entries-polyfill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Riim/object-entries-polyfill.git"
+  },
+  "author": "Dmitry Vibe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Riim/object-entries-polyfill/issues"
+  },
+  "homepage": "https://github.com/Riim/object-entries-polyfill#readme"
+}
